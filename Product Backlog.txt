@@ -1,0 +1,37 @@
++ po załadowaniu strony główna kulka ma być na środku ekranu i ma być jedyną kulką
+
++ po naciśnięciu strzałki w prawo główna kulka ma iść w prawo
++ po naciśnięciu strzałki w lewo główna kulka ma iść w lewo
++ po naciśnięciu strzałki w górę główna kulka ma iść w górę
++ po naciśnięciu strzałki w dół główna kulka ma iść w dół
+
++ po naciśnięciu spacji w losowym miejscu ma się wyświetlić nowa kulka
+
++ wszystkie kulki mają wyświetlać swoją średnicę
+
++ losowe wielkości generowanych kulek
+
++ losowe kolory enerowanych kulek
+    - ale różne od koloru główneg kulki
+    - mniejsze kulki mają być jaśniejsze, a większe ciemniejsze
+
+- różne miejsca renderowania początkowej kulki
+
++ można poruszać się WSADem
+
+- po naciśnięciu strzałek kulka ma poruszać się wolniej/szybciej
+- naciśnięcie +/- ma regulować prędkość poruszania się kulki
+- z Shiftem kulka ma poruszać się 5*szybciej
+
+- po kliknięciu w inną kulkę:
+    - kulka ma się pojawiać wmiejscu klikniętej kulki
+    - kliknięta kulka ma znikać
+    - główna kulka ma zwiększyć średnicę o wartość promienia zjedzonej kulki
+
+- główna kulka ma poruszać się płynnie, a nie skakać
+
+- INPUT pokazuje ile nowych kulek wyrenderuje się po naciśnięciu spacji
+    - suwak zamiast inputa
+
+- guziki ze strzałkami do obsługi poruszania się kulki
+
